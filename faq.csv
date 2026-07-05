@@ -1,16 +1,16 @@
-﻿"question,answer"
-"What is NLP?,NLP stands for Natural Language Processing which helps computers understand human language."
-"What is AI?,AI means Artificial Intelligence where machines can perform tasks that usually need human intelligence."
-"What is a chatbot?,A chatbot is a software that can simulate human conversation."
-"What is Streamlit?,Streamlit is a Python framework used to build web apps for data science and machine learning."
-"What is machine learning?,Machine learning is a method where computers learn from data and make predictions."
-"What is sentiment analysis?,Sentiment analysis is the process of identifying whether text is positive or negative."
-"What is TF-IDF?,TF-IDF is a technique to convert text into numerical features for machine learning."
-"Why is NLP important?,NLP helps computers understand, interpret, and respond to human language."
-"What is a dataset?,A dataset is a collection of data used to train or test a model."
-"What is classification?,Classification is a machine learning task where data is assigned into categories."
-"How does a chatbot work?,A chatbot matches user input with stored questions and returns the best answer."
-"What is Python?,Python is a programming language used for AI, data science, and web development."
-"What is GitHub?,GitHub is a platform to store and manage code projects."
-"What is Streamlit used for?,Streamlit is used to quickly build interactive web applications in Python."
-"Can AI replace humans?,AI can assist humans but cannot fully replace human thinking and creativity."
+question,answer
+What is NLP?,NLP stands for Natural Language Processing which helps computers understand human language.
+What is AI?,AI means Artificial Intelligence where machines can perform tasks that usually need human intelligence.
+What is a chatbot?,A chatbot is a software that can simulate human conversation.
+What is Streamlit?,Streamlit is a Python framework used to build web apps for data science and machine learning.
+What is machine learning?,Machine learning is a method where computers learn from data and make predictions.
+What is sentiment analysis?,Sentiment analysis is the process of identifying whether text is positive or negative.
+What is TF-IDF?,TF-IDF is a technique to convert text into numerical features for machine learning.
+Why is NLP important?,NLP helps computers understand, interpret, and respond to human language.
+What is a dataset?,A dataset is a collection of data used to train or test a model.
+What is classification?,Classification is a machine learning task where data is assigned into categories.
+How does a chatbot work?,A chatbot matches user input with stored questions and returns the best answer.
+What is Python?,Python is a programming language used for AI, data science, and web development.
+What is GitHub?,GitHub is a platform to store and manage code projects.
+What is Streamlit used for?,Streamlit is used to quickly build interactive web applications in Python.
+Can AI replace humans?,AI can assist humans but cannot fully replace human thinking and creativity.
